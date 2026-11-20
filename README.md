@@ -2,8 +2,11 @@
 ### Ultra-Fast, Apple-Inspired Master Syllabus Tracker, Day Counter & Study Engine for UPSC CSE, SSC CGL & SSC CHSL
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
+[![Live on Vercel](https://img.shields.io/badge/Live-upsc--ssc--tracker.vercel.app-black?logo=vercel)](https://upsc-ssc-tracker.vercel.app)
 [![Built With React & Vite](https://img.shields.io/badge/Stack-React%20%7C%20TypeScript%20%7C%20Vite%20%7C%20TailwindCSS-0071e3)](https://vitejs.dev/)
 [![Apple Design](https://img.shields.io/badge/Design-Apple%20WWDC%20HIG-black)](https://developer.apple.com/design/)
+
+🌐 **Live URL**: [https://upsc-ssc-tracker.vercel.app](https://upsc-ssc-tracker.vercel.app)
 
 **AspirantOS** is an ultra-fast, offline-capable study operating system built specifically for government examination aspirants in India. It converts the vast, intimidating official syllabi of **UPSC Civil Services Examination (CSE)**, **SSC Combined Graduate Level (CGL)**, and **SSC Combined Higher Secondary Level (CHSL)** into an interactive, granular, bit-by-bit checklist powered by an Apple-grade fluid interface, day countdown engine, and automated spaced repetition scheduler.
 
